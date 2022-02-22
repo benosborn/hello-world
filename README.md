@@ -1,2 +1,2 @@
 # hello-world
-Sample from the hello world tutorial
+Hey, I'm just following the tutorial... ignore me!
